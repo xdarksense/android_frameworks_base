@@ -225,7 +225,7 @@ public abstract class BaseStatusBar extends SystemUI implements
 
     protected int mZenMode;
 
-	protected AppCircleSidebar mAppCircleSidebar
+	protected AppCircleSidebar mAppCircleSidebar;
 
     // which notification is currently being longpress-examined by the user
     private NotificationGuts mNotificationGutsExposed;
